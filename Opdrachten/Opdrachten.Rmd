@@ -1,0 +1,31 @@
+---
+title: "Opdrachten"
+output: html_document
+---
+
+---
+
+1b
+
+Toekomstige werkambitie
+
+Op dit moment weet ik nog niet precies welke specifieke functie mijn droombaan zal zijn, maar ik ben erg geïnteresseerd in een combinatie van biologie en informatietechnologie. Het lijkt mij bijzonder uitdagend en leerzaam om mijn passie voor biologie te combineren met het werken met computers en data-analyse.
+
+Huidige vaardigheden
+
+Door mijn studie HBO Life Sciences heb ik een brede basis in biologie opgebouwd, waardoor ik goed voorbereid ben op onderzoek en wetenschappelijke vraagstukken. Daarnaast volg ik momenteel een minor Data Science, waarin ik een solide introductie krijg in programmeren, data-analyse en computational skills, wat een goede voorbereiding vormt op een toekomst in een interdisciplinair vakgebied.
+
+Te ontwikkelen vaardigheden
+
+Hoewel ik al een basiskennis van programmeren en data-analyse heb, wil ik deze vaardigheden verder verdiepen. Het is mijn doel om meer gevorderde programmeervaardigheden en analytische competenties te ontwikkelen, zodat ik straks optimaal voorbereid ben om mijn interesses in biologie en informatica te combineren in een professionele context.
+
+---
+
+
+---
+2
+
+machine learning
+
+
+---
