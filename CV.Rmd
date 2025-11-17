@@ -1,0 +1,39 @@
+---
+title: "CV"
+output: html_document
+---
+
+```
+Gemotiveerde en leergierige HBO Life Sciences student met praktijkervaring in zowel productieomgevingen als klantgerichte functies. Sterk in samenwerken, nauwkeurig werken en flexibel inzetbaar. Geïnteresseerd in het toepassen van wetenschappelijke kennis in de praktijk en het bijdragen aan professionele processen.
+
+Werkervaring
+Productiemedewerker – Fabriek
+
+Winkelmedewerker
+
+Vrijwilligerswerk
+
+
+
+Opleiding
+
+HBO Life Sciences
+
+Kennismaking met laboratoriumtechnieken en biologisch onderzoek
+
+Basis in biologie, chemie, microbiologie en data-analyse
+
+
+Vaardigheden
+
+Nauwkeurig en verantwoordelijk
+
+Teamplayer, maar ook zelfstandig inzetbaar
+
+Hands-on mentaliteit
+
+Basiskennis laboratoriumvaardigheden
+
+Goede werkethiek en flexibiliteit
+
+```
